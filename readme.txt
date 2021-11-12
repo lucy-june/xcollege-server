@@ -1,7 +1,7 @@
 # Development Environment
-nodejs: v4.xx
-npm: v2.15.1
-ionic: 1.7.15
+Install nodejs(include node + npm): https://nodejs.org/dist/v4.4.4/node-v4.4.4-x64.msi
+  - node: v4.4.4
+  - npm: v2.15.1
 
 # Start Server
 $ npm install
